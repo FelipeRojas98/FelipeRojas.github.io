@@ -12,7 +12,7 @@ title                    : "Felipe Rojas / Site"
 title_separator          : "-"
 name                     : &name "Felipe Rojas"
 description              : &description "personal description"
-url                      : https://feliperojas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://FelipeRojas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FelipeRojas98/FelipeRojas.github.io"
 
